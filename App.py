@@ -1,5 +1,5 @@
 import streamlit as st
-
+import setup
 
 from basicsr.models import create_model
 from basicsr.utils import img2tensor as _img2tensor, tensor2img, imwrite
