@@ -4,6 +4,9 @@ The applicaiton is carried out with the help of Simple Baselines for Image Resto
 
 (This is repo is only for demonstration and is deployed via streamlit so it isn't modular by any mean and should refer to the author's repo for furthur instruction and notice)
 
+## Quick start
+* The training process: [<a href="https://colab.research.google.com/drive/1l6Ci4lgrYf3re6F5_dNvLqlkxjbgWCSR?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="google colab logo"></a>](https://colab.research.google.com/drive/1l6Ci4lgrYf3re6F5_dNvLqlkxjbgWCSR?usp=sharing)
+* The deployed application: [<a href="https://huyrand-nafnet-cs406-app-lpblps.streamlitapp.com/"><img src="https://raw.githubusercontent.com/rlew631/rlew631/b09a7af3f30f8b5a5428dbeb07b9021622018685/red_streamlit.svg" ></a>](https://huyrand-nafnet-cs406-app-lpblps.streamlitapp.com/)
 ## Reference
 The official pytorch implementation of the paper **[NAFNet](https://github.com/megvii-research/NAFNet)**
 
