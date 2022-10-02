@@ -2,7 +2,7 @@
 ## Image processing and its application
 The applicaiton is carried out with the help of Simple Baselines for Image Restoration and their implementation, hence the structural integrity remains the same as original. The gopro dataset which is performed on is provided by the author of papers is splitted into the train part and the test part accordingly to the paper .Two new models were trained on the 2 smaller datasets with tuned down setting given the limited resources and time, specifically 100 and 215 pair of images consisting of the input image which is blurred and the ground truth. 
 
-(This is repo is only for demonstration and is deployed via streamlit so it isn't modular by any mean and should refer to the author's repo for furthur instruction and notice)
+(This is repo is only for demonstration and is deployed via streamlit so it's not modular by any mean and one should refer to the author's repo for furthur instruction and notice)
 
 ## Quick start
 * The training process: [<a href="https://colab.research.google.com/drive/1l6Ci4lgrYf3re6F5_dNvLqlkxjbgWCSR?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="google colab logo"></a>](https://colab.research.google.com/drive/1l6Ci4lgrYf3re6F5_dNvLqlkxjbgWCSR?usp=sharing)
