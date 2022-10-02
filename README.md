@@ -10,7 +10,7 @@ The applicaiton is carried out with the help of Simple Baselines for Image Resto
 ## Reference
 The official pytorch implementation of the paper **[NAFNet](https://github.com/megvii-research/NAFNet)**
 
-The official paper **[Simple Baselines for Image Restoration (ECCV2022)](https://github.com/megvii-research/NAFNet)**
+The official paper **[Simple Baselines for Image Restoration (ECCV2022)](https://arxiv.org/abs/2204.04676)**
 ## Citations
 ```
 @article{chen2022simple,
