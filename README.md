@@ -12,7 +12,9 @@ The 2 models we experimented were trained on a 100 and 215 training images datas
 * The 215 images dataset: https://drive.google.com/file/d/1njXPwcowUR4179yXzCagiQYQL8UZfeOK/view?usp=sharing
 
 ## Quick start
-* The training process: [<a href="https://colab.research.google.com/drive/1l6Ci4lgrYf3re6F5_dNvLqlkxjbgWCSR?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="google colab logo"></a>](https://colab.research.google.com/drive/1l6Ci4lgrYf3re6F5_dNvLqlkxjbgWCSR?usp=sharing)
+* The training process
+* - 100 images: [<a href="https://colab.research.google.com/drive/16g4UNwuob_qRSTAfyusUqWiugVN71Dls?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="google colab logo"></a>](https://colab.research.google.com/drive/16g4UNwuob_qRSTAfyusUqWiugVN71Dls?usp=sharing)
+* - 215 images:[<a href="https://colab.research.google.com/drive/1qUmWq3n5F8Xtj2SPu6Vs6hd2dxpzQKJZ?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="google colab logo"></a>](https://colab.research.google.com/drive/1qUmWq3n5F8Xtj2SPu6Vs6hd2dxpzQKJZ?usp=sharing)
 * The deployed application: [<a href="https://huyrand-nafnet-cs406-app-lpblps.streamlitapp.com/"><img src="https://raw.githubusercontent.com/rlew631/rlew631/b09a7af3f30f8b5a5428dbeb07b9021622018685/red_streamlit.svg" ></a>](https://huyrand-nafnet-cs406-app-lpblps.streamlitapp.com/)
 ## Reference
 The official pytorch implementation of the paper **[NAFNet](https://github.com/megvii-research/NAFNet)**
