@@ -34,7 +34,7 @@ network_g:
 
 # path
 path:
-  pretrain_network_g: net_g_latest_100.pth
+  pretrain_network_g: net_g_latest_100_2.pth
   strict_load_g: true
   resume_state: ~
 
