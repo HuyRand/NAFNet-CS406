@@ -11,6 +11,16 @@ The 2 models we experimented were trained on a 100 and 215 training images datas
 * The 100 images dataset: https://drive.google.com/file/d/1RjPUSwx52PIYeCIQyYzNbdbxGMMIXgmo/view?usp=sharing
 * The 215 images dataset: https://drive.google.com/file/d/1njXPwcowUR4179yXzCagiQYQL8UZfeOK/view?usp=sharing
 
+## Installation guide
+* Clone the repo and make a virtual environment using requirements.txt via anaconda
+```
+pip install -r requirements.txt
+```
+* Run the application
+```
+streamlit run App.py
+```
+* The application will run locally on port 8501
 ## Quick start
 * The training process
 * - 100 images: [<a href="https://colab.research.google.com/drive/16g4UNwuob_qRSTAfyusUqWiugVN71Dls?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="google colab logo"></a>](https://colab.research.google.com/drive/16g4UNwuob_qRSTAfyusUqWiugVN71Dls?usp=sharing)
