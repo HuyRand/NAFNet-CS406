@@ -25,11 +25,14 @@ streamlit run App.py
 * The training process
 * - 100 images: [<a href="https://colab.research.google.com/drive/16g4UNwuob_qRSTAfyusUqWiugVN71Dls?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="google colab logo"></a>](https://colab.research.google.com/drive/16g4UNwuob_qRSTAfyusUqWiugVN71Dls?usp=sharing)
 * - 215 images:[<a href="https://colab.research.google.com/drive/1qUmWq3n5F8Xtj2SPu6Vs6hd2dxpzQKJZ?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="google colab logo"></a>](https://colab.research.google.com/drive/1qUmWq3n5F8Xtj2SPu6Vs6hd2dxpzQKJZ?usp=sharing)
-* The deployed application: [<a href="https://huyrand-nafnet-cs406-app-lpblps.streamlitapp.com/"><img src="https://raw.githubusercontent.com/rlew631/rlew631/b09a7af3f30f8b5a5428dbeb07b9021622018685/red_streamlit.svg" ></a>](https://huyrand-nafnet-cs406-app-lpblps.streamlitapp.com/)
+* The deployed application (might be down due to inactivity): [<a href="https://huyrand-nafnet-cs406-app-z6c01t.streamlit.app/"><img src="https://raw.githubusercontent.com/rlew631/rlew631/b09a7af3f30f8b5a5428dbeb07b9021622018685/red_streamlit.svg" ></a>](https://huyrand-nafnet-cs406-app-z6c01t.streamlit.app/)
 ## Reference
 The official pytorch implementation of the paper **[NAFNet](https://github.com/megvii-research/NAFNet)**
 
 The official paper **[Simple Baselines for Image Restoration (ECCV2022)](https://arxiv.org/abs/2204.04676)**
+## Demonstration
+![image](https://user-images.githubusercontent.com/82890282/211042451-fd40b67d-7a2e-4684-8205-bf0d491cee07.png)
+
 ## Citations
 ```
 @article{chen2022simple,
